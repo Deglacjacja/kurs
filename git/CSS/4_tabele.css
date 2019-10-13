@@ -1,0 +1,28 @@
+table, tr, th, td
+{
+  border: solid;
+  border-collapse: collapse;
+  padding: 10px;
+  text-align: center;
+}
+
+th
+{
+    background-color: grey;
+    color: white;
+}
+
+tr.red
+{
+  background-color: red
+}
+
+td.green
+{
+  background-color: green;
+}
+
+.blue
+{
+  background-color: blue;
+}

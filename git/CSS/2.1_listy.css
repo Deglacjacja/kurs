@@ -1,0 +1,32 @@
+*{
+  background-color: grey;
+
+}
+
+ol.rzymskie
+{
+list-style-type: lower-roman;
+color: red;
+}
+
+ul.litery
+{
+  list-style-type: lower-latin;
+  color: yellow;
+}
+
+ul.cyfry
+{
+  list-style-type: decimal;
+  color: yellow;
+}
+
+ul.circle
+{
+  color: blue;
+}
+
+ul.square
+{
+  color: blue;
+}
