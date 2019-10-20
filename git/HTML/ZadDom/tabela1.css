@@ -1,0 +1,37 @@
+table, tr, th, td
+{
+  border: dotted 2px;
+  border-collapse: collapse;
+  padding: 10px;
+  text-align: center;
+}
+td.blue
+{
+  background-color: blue;
+}
+td.yellow
+{
+  background-color: yellow;
+}
+td.grey
+{
+  background-color: grey;
+}
+td.green
+{
+  background-color: green;
+}
+
+.lista1
+{
+  list-style-type: lower-latin;
+  color: red;
+}
+.lista2
+{
+  color: red;
+}
+.lista2
+{
+  color: red;
+}
