@@ -1,0 +1,18 @@
+#button
+{
+  background-color: skyblue;
+  color: white;
+}
+
+input, textarea
+{
+    border-radius: 3px;
+    border: solid 1px black;
+}
+
+.container
+{
+  max-width: 500;
+}
+
+input.phone
